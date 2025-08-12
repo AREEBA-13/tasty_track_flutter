@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542685709828",
+    "project_id": "tasty-track-53e5a",
+    "storage_bucket": "tasty-track-53e5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542685709828:android:cdaf8c1ed50814efa6d751",
+        "android_client_info": {
+          "package_name": "com.example.tasty_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHNImqotoYxXs6AQyHtBvjx7apILdKnxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
